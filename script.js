@@ -61,8 +61,8 @@ function initProjectCards() {
       link.href = "https://memory-self-iota.vercel.app/";
     } else if (title.includes("infocars")) {
       link.href = "https://zervsu.github.io/infocars/";
-    } else if (title.includes("word search")) {
-      link.href = "https://zervsu.github.io/word-search/";
+    } else if (title.includes("canatrip")) {
+      link.href = "https://canatrip.vercel.app/";
     }
 
     link.target = "_blank";
